@@ -1,5 +1,5 @@
 .hero {
-  background-color: bisque;
+  background-color: gray;
   padding-left: 10px;
 }
 .hero-title {
@@ -29,4 +29,14 @@
   text-align: center;
   background-color: #28a745;
   border-radius: 5px;
+}
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+
+.swiper-pagination-bullet {
+  width: 20px;
+  height: 20px;
+  background-color: #28a745;
 }
