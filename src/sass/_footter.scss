@@ -1,0 +1,20 @@
+.footer {
+  height: 110px;
+  width: 1360px;
+  background-color: #333333;
+}
+
+.item-list {
+  display: flex;
+  list-style: none;
+}
+.text {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 10px;
+}
